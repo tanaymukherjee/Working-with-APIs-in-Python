@@ -26,3 +26,14 @@ Things we cover in this example are:
 - Streaming a video file from files-example.com
   - Store the image files
   - Store the video files
+
+
+## 3. Debugging iTunes database
+Things we cover in this example are:
+
+- Set up the server request and check the status
+- Inspect the structure of the response
+- Locate the name and release date of a song
+- Print the name of all songs
+- Print out the release date of all songs
+- Structuring and exporting the data
