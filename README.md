@@ -15,3 +15,14 @@ Things we cover in this example are:
   - Then the base currency and the currency for which we wish to get the exchange rate
   - Pick the denomination
   - Result will include the inputs from the user and will print the resepctive outputs.
+  
+  
+## 2. Writing images and video files
+Things we cover in this example are:
+
+- Set up the server request and check the status
+- Printing the bytes on screen
+- Writing to an image file from wikipedia
+- Streaming a video file from files-example.com
+  - Store the image files
+  - Store the video files
